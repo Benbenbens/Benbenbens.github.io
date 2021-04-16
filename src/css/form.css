@@ -1,0 +1,60 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ /* input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  } */
+
+
+  #Description {
+    /* display: inline-block; */
+    width: 550px;
+    text-align: left;
+}
+
+p {
+  font-size: 17px;
+  font-weight:bold;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+legend {
+  font-size: 16px; 
+ }
+
+ #Photographer_Name {
+  width: 70%;
+  /* padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px; */
+  box-sizing: border-box;
+}
+
+
+/* #Share_location_information {
+  text-align: left;
+} */
+
+/* #latitude {
+  width: 500px;
+	display: inline-block;
+
+} */
+
+/* 
+#error-msg {
+  float:right;
+  text-align: left;
+  padding-left:20px;
+  color:red;
+  } 
+*/
