@@ -1,0 +1,39 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+#Description {
+  width: 550px;
+  text-align: left;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+legend {
+  font-size: 16px;
+}
+
+#Photographer_Name,
+#Photographer_Email,
+#Description {
+  width: 66%;
+  box-sizing: content-box;
+  padding: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#Species_Guess {
+  width: 25%;
+  box-sizing: content-box;
+  padding: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#License {
+  width: 70%;
+  box-sizing: border-box;
+}
